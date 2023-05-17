@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+    height: 90px;
+    background-color:#62CDFF;
+    display: flex;
+    justify-content: space-between;align-items: center;
+}
+.icon{
+    display: flex;
+    gap: 1rem;
+    color: white;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.icon:hover{
+    color: blue;
+}
+.sus{
+    font-weight: bold;
+    color: grey;
+    font-size: larger;
+    padding-left: 10px;
+}
